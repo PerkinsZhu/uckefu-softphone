@@ -1,4 +1,4 @@
-var ws_address = "172.20.113.213" , ws_port = "5066" ;	//服务器地址 ， FreeSwitch //112.74.54.80
+var ws_address = "127.0.0.1" , ws_port = "5066" ;	//服务器地址 ， FreeSwitch //112.74.54.80
 $(document).ready(function(){
 	
 	$(document).on("click" , '[data-toggle="soft-function"]' , function(e){
